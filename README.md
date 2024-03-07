@@ -1,0 +1,4 @@
+This is a backup of my tmux cofiguration file.
+- Copy the .tmux.conf to ~/ location in your system.
+- Clone the tpm repo in the ~/ directory in your system using the below command.
+    - git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
